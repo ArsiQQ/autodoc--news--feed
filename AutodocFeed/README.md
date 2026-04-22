@@ -94,4 +94,7 @@ GET https://webapi.autodoc.ru/api/news/{page}/{pageSize}
 
 ## Скриншоты
 
-<!-- Добавить скриншоты: iPhone лента, iPhone деталь, iPad -->
+![Главный экран iPhone](screenshots/iPhoneList.jpg)
+![Экран деталей iPhone](screenshots/iPhoneDetails.jpg)
+![Главный экран iPad](screenshots/iPadList.jpg)
+![Экран деталей iPhone](screenshots/iPadDetails.jpg)
